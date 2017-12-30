@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:elevation="3dp"
+        >
+        <ImageView
+            android:id="@+id/pic_contact_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/back"
+            android:padding="18dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="城市选择"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            />
+    </LinearLayout>
+
+    <me.yokeyword.indexablerv.IndexableLayout
+        android:id="@+id/indexableLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        app:indexBar_selectedTextColor="@color/black"
+        app:indexBar_textColor="@color/gray1"
+        app:indexBar_layout_width="40dp"
+        app:indexBar_textSize="14sp"
+        app:indexBar_textSpace="5dp" />
+
+</LinearLayout>

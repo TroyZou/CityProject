@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="no_color">#00000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="app_line_gray">#d0d0d0</color>
+
+    <color name="red1">#ff4000</color>
+
+    <color name="app_bg_red">#ffdb5153</color>
+    <color name="red">#cc0000</color>
+    <color name="red_xinnian_hb">#9b000f</color>
+    <color name="red_msg_qq">#F74C32</color>
+    <color name="text_gray">#999999</color>
+
+    <color name="gray_hb">#deb380</color>
+
+    <color name="tm">#00000000</color>
+
+    <color name="yellow">#ffcc00</color>
+    <color name="grayyellow">#bfad83</color>
+    <color name="gray">#808080</color>
+    <color name="gray1">#cccccc</color>
+    <color name="wxlq_background">#666f76</color>
+    <color name="gray2">#efefef</color>
+    <color name="gray3">#D9D9D9</color>
+    <color name="gray_black">#404040</color>
+
+    <color name="black">#222222</color>
+    <color name="blackdark">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="gray_back">#efefef</color>
+    <color name="blue">#6593cb</color>
+    <color name="blue2">#00BFFF</color>
+    <color name="bluedrak">#003399</color>
+
+    <color name="grayLite">#ccc</color>
+    <color name="grayDark">#888</color>
+    <color name="graywhite">#efefef</color>
+
+    <color name="dark">#FF222222</color>
+    <color name="light">#FFEEEEEE</color>
+
+    <color name="green">#00cc00</color>
+
+    <color name="greendark">#008B45</color>
+
+    <color name="cgcolor">#CD661D</color>
+
+    <color name="yzcgcolor">#FF0000</color>
+    <color name="ysbhcolor">#FFD39B</color>
+
+    <color name="orange">#ff8000</color>
+
+    <color name="msg_green">#7ebf00</color>
+    <color name="msg_blue">#00a1c7</color>
+    <color name="msg_red">#e1003e</color>
+    <color name="blue_tianlan">#aad3ef</color>
+
+    <color name="yucun_blue">#242e38</color>
+    <color name="yucun_bluedark">#1c262e</color>
+    <color name="yucun_bluetextback_shallow">#6093ad</color>
+    <color name="yucun_bluetext">#00cbfc</color>
+    <color name="yucun_bluetextback">#2e3a46</color>
+
+    <color name="zw_qz_address_text">#1dabc1</color>
+</resources>
