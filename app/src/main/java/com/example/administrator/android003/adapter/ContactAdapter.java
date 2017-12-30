@@ -53,7 +53,7 @@ public class ContactAdapter extends IndexableAdapter<UserEntity> {
 
         public IndexVH(View itemView) {
             super(itemView);
-            tv = (TextView) itemView.findViewById(R.id.tv_index);
+            tv = itemView.findViewById(R.id.tv_index);
         }
     }
 
